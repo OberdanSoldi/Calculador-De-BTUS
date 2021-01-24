@@ -14,7 +14,7 @@ Tecnicamente, **1 Btu/h** é a energia necessária para reduzir a temperatura de
 
 ### Calculo de BTU
 
-Para calcular o **BTU** usado na hora de refrigerar um cômodo, devemos pensar no tamanho do ambiente, já que, são necessários entre **600 e 800 BTUs **por metro quadrado. Você pode usar a base de **600 BTUs** *quando o ambiente não tiver incidência de sol*. Já os **800 BTUs** *devem ser considerados em locais onde há raios de luz diariamente*.
+Para calcular o **BTU** usado na hora de refrigerar um cômodo, devemos pensar no tamanho do ambiente, já que, são necessários entre **600 e 800 BTUs** por metro quadrado. Você pode usar a base de **600 BTUs** *quando o ambiente não tiver incidência de sol*. Já os **800 BTUs** *devem ser considerados em locais onde há raios de luz diariamente*.
 
 Sabendo dessa informação, meça o cômodo em que o ar condicionado ficará instalado. *A quantidade de pessoas que frequenta o local também influenciará no resultado final*. Recomenda-se somar **600 BTUs (ou 800, se houver incidência de sol)** a cada usuário adicional do espaço *(o primeiro não conta)*.
 
